@@ -5,7 +5,6 @@
 #include <ctype.h>
 #include <time.h>
 
-
 #ifndef F_PI
 #define F_PI		((float)(M_PI))
 #define F_2_PI		((float)(2.f*F_PI))
