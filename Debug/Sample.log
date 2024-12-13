@@ -1,0 +1,5 @@
+﻿  sample.cpp
+C:\Users\Lakshman Kruthik\Downloads\SampleWindows_Project_Final\SampleWindows_Project_Final\SampleWindows_Project_Final\SampleWindows_Project_Final\Sample2022\sample.cpp(944,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lakshman Kruthik\Downloads\SampleWindows_Project_Final\SampleWindows_Project_Final\SampleWindows_Project_Final\SampleWindows_Project_Final\Sample2022\sample.cpp(944,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Lakshman Kruthik\Downloads\SampleWindows_Project_Final\SampleWindows_Project_Final\SampleWindows_Project_Final\SampleWindows_Project_Final\Sample2022\Debug\Sample.exe
